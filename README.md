@@ -1,4 +1,4 @@
-# Makes trolling easier
+# Tool that makes trolling easier
 
 You can use this to learn or as your own multitools base
 
